@@ -1,0 +1,9 @@
+;Data about the house
+Cadastral number: ;451261
+Address: ;Omsk,Goryacheva,6b
+Senior housemate: ;Ivanov Ivan Ivanovich
+;Data about apartments;
+Number;Area, sq. m;Owners
+45;56.2;[Ivanov Ivan Ivanovich, Dmitriev Dmitrii Dmitrievich, Liliev Artem Vladimirovich]
+74;24.25;[Ivanov Ivan Ivanovich, Liliev Artem Vladimirovich, Ivanov Ivan Ivanovich]
+85;42.6;[Dmitriev Dmitrii Dmitrievich, Liliev Artem Vladimirovich, Ivanov Ivan Ivanovich]
